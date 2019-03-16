@@ -1,4 +1,4 @@
-#Problem7
+#Problem07
 
 a = input("Enter a: ")
 type(a)
